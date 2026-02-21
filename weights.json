@@ -1,0 +1,86 @@
+[
+  {
+    "weight": 69.7,
+    "sleep_hours": 8.0,
+    "condition": 3,
+    "saved_at": "2026-02-01T20:34:11"
+  }
+  {
+  "weight": 69.1,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-02"
+}
+{
+  "weight": 69.4,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-03"
+}
+{
+  "weight": 69.6,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-04"
+}
+{
+  "weight": 70.1,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-05"
+}
+{
+  "weight": 69.4,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-06"
+}
+{
+  "weight": 69.9,
+  "sleep_hours": 8.0,
+  "condition": 4,
+  "log_date": "2026-02-07"
+}
+{
+  "weight": 69.5,
+  "sleep_hours": 7.3,
+  "condition": 4,
+  "log_date": "2026-02-08"
+}
+{
+  "weight": 70.0,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-09"
+}
+{
+  "weight": 70.1,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-10"
+}
+{
+  "weight": 70.0,
+  "sleep_hours": 7.3,
+  "condition": 3,
+  "log_date": "2026-02-11"
+}
+{
+  "weight": 69.4,
+  "sleep_hours": 7.0,
+  "condition": 3,
+  "log_date": "2026-02-12"
+}
+{
+  "weight": 69.8,
+  "sleep_hours": 7.0,
+  "condition": 3,
+  "log_date": "2026-02-13"
+}
+{
+  "weight": 69.8,
+  "sleep_hours": 7.3,
+  "condition": 4,
+  "log_date": "2026-02-14"
+}
+]

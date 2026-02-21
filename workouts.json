@@ -1,0 +1,24 @@
+[
+  {
+    "exercise": "Bench Press",
+    "weight": 100.0,
+    "reps": 4,
+    "sets": 1,
+    "saved_at": "2026-02-01T20:32:08"
+  },
+  {
+    "exercise": "Bench Press",
+    "weight": 100.0,
+    "reps": 10,
+    "sets": 3,
+    "saved_at": "2026-02-02T09:29:32"
+  },
+  {
+    "exercise": "Deadlift",
+    "weight": 140.0,
+    "reps": 1,
+    "sets": 1,
+    "log_date": "2026-02-04",
+    "saved_at": "2026-02-04T09:31:58"
+  }
+]
